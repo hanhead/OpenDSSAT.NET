@@ -1,3 +1,5 @@
+[![Korean](https://img.shields.io/badge/Language-Korean-blue.svg)](./README.ko.md)
+
 # OpenDSSAT.NET
 
 **OpenDSSAT.NET** is an open-source initiative designed to modernize and extend the legacy Fortran-based **DSSAT (Decision Support System for Agrotechnology Transfer)** crop simulation engine using **C# .NET Core**.
