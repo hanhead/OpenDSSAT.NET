@@ -416,3 +416,18 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# --- OpenDSSAT Custom Rules ---
+# DSSAT Executable (License Protected)
+DSCSM048.EXE
+*.EXE
+*.dll
+
+# Simulation Outputs (Large files)
+*.OUT
+*.LOG
+
+# Runtime Sandbox Folders
+/Sandbox/
+/DssatRun/
+/Temp/
